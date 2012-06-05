@@ -1,4 +1,3 @@
-slides
+Slides
 ======
-
-Slides from various talks, I have given
+Slides from various talks, I have given - mostly at Open Space Aaarhus (OSAA).
